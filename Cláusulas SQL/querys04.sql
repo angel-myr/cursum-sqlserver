@@ -1,3 +1,7 @@
+/*
+    Sentencias
+*/
+
 USE cursumSQL
 
 --SELECT TOP 5 titulo, idGenero FROM Libro

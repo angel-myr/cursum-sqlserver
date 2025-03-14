@@ -29,3 +29,9 @@
 
 ![alt text](imgs/image05.png)
 
+### Funciones de Agregado
+    ✅ Función MAX y MIN
+    ✅ Función SUM, AVG y COUNT
+    ✅ Función HAVING
+
+![alt text](imgs/image06.png)
