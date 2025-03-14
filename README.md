@@ -39,5 +39,6 @@
 ### Operadores Lógicos
     ✅ Operadores AND, OR y NOT
     ✅ Operadores IN, LIKE y BETWEEN
+    ✅ Uso Combinado de Operadores
 
 ![alt text](imgs/image07.png)
