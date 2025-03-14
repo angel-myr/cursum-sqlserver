@@ -35,3 +35,9 @@
     ✅ Función HAVING
 
 ![alt text](imgs/image06.png)
+
+### Operadores Lógicos
+    ✅ Operadores AND, OR y NOT
+    ✅ Operadores IN, LIKE y BETWEEN
+
+![alt text](imgs/image07.png)
