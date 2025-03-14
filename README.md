@@ -22,3 +22,10 @@
     ✅ Uso Combinado de estas Cláusulas
 
 ![alt text](imgs/image04.png)
+
+### Manipulación de registros DML con UPDATE y DELETE
+    ✅ Comando UPDATE y DELETE
+    ✅ Verificar restricciones de FK con DELETE
+
+![alt text](imgs/image05.png)
+
