@@ -16,3 +16,9 @@
     ✅ Verificar restricciones de PK y FK
 
 ![alt text](imgs/image03.png)
+
+### Cláusulas SQL
+    ✅ Cláusulas TOP, ORDER BY, DISTINCT, GROUP BY y WHERE
+    ✅ Uso Combinado de estas Cláusulas
+
+![alt text](imgs/image04.png)
