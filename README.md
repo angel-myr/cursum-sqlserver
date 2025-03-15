@@ -62,3 +62,9 @@
     ✅ Operadores ">, <, <>, =" para Números y Cadenas
 
 ![alt text](imgs/image10.png)
+
+### Programando Stored Procedures de INSERT
+    ✅ Programación de Inserciones Complejas
+    ✅ Manejo de Errores y Duplicados
+
+![alt text](imgs/image11.png)
