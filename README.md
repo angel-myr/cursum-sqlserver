@@ -49,3 +49,10 @@
     ✅ Programando Subconsultas
 
 ![alt text](imgs/image08.png)
+
+### Estructuras de Control
+    ✅ Condicionales IF, ELSE, CASE
+    ✅ Bucle WHILE y Estructura TRY CATCH
+    ✅ Función EXISTS e Instrucciones RETURN y BREAK
+
+![alt text](imgs/image09.png)
