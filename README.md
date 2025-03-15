@@ -56,3 +56,9 @@
     ✅ Función EXISTS e Instrucciones RETURN y BREAK
 
 ![alt text](imgs/image09.png)
+
+### Operadores Aritméticos y de Comparación
+    ✅ Operadores "+, -, *, /, %" para Números y Cadenas
+    ✅ Operadores ">, <, <>, =" para Números y Cadenas
+
+![alt text](imgs/image10.png)
