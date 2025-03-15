@@ -42,3 +42,10 @@
     ✅ Uso Combinado de Operadores
 
 ![alt text](imgs/image07.png)
+
+### Stored Procedures, Variables y Subconsultas
+    ✅ Definición de Stored Procedures (ANSI_NULLS y QUOTED_IDENTIFIER)
+    ✅ Manejo de Variables (DECLARE, SET y ISNULL)
+    ✅ Programando Subconsultas
+
+![alt text](imgs/image08.png)
