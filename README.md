@@ -68,3 +68,16 @@
     ✅ Manejo de Errores y Duplicados
 
 ![alt text](imgs/image11.png)
+
+### Herramientas Adicionales
+    ✅ Procesos SP_HELP y SP_HELPTEXT
+    ✅ Establecer Atajos de Teclado
+
+![alt text](imgs/image12.png)
+
+### Sentencias DDL
+    ✅ Sentencias ALTER TABLE, ALTER COLUMN y DROP COLUMN
+    ✅ Sentencias CREATE y ALTER para Funciones
+    ✅ Sentencias CREATE, DROP y TRUNCATE para Tablas
+
+![alt text](imgs/image13.png)
