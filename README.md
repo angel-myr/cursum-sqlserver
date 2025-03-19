@@ -81,3 +81,23 @@
     ✅ Sentencias CREATE, DROP y TRUNCATE para Tablas
 
 ![alt text](imgs/image13.png)
+
+### Funciones de Conversión y Texto
+    ✅ Funciones para Cadenas: LEFT, RIGHT, LEN, LOWER y UPPER
+    ✅ Funciones para Cadenas: REPLACE, REPLICATE, LTRIM, RTRIM, CONCAT
+    ✅ Funciones para Fechas: GETDATE, DATEADD, DATEDIFF, DATEPART, ISDATE 
+    ✅ Funciones de Conversión: CAST y CONVERT
+
+![alt text](imgs/image14.png)
+
+### Transacciones
+    ✅ Instrucción BEGIN TRANSACTION
+    ✅ Instrucciones COMMIT TRAN y ROLLBACK TRAN
+
+![alt text](imgs/image15.png)
+
+### JOINS y UNIONS entre Tablas
+    ✅ Cláusulas INNER, LEFT y RIGHT JOIN
+    ✅ Cláusulas UNION y UNION ALL
+
+![alt text](imgs/image16.png)
